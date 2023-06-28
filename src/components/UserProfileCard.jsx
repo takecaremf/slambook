@@ -48,7 +48,7 @@ export default function UserProfileCard({ user }) {
           alt="Bonnie image"
           className="mb-3 rounded-full shadow-lg"
           height="96"
-          src="/images/people/profile-picture-3.jpg"
+          src="https://avatars.githubusercontent.com/u/131129352?s=400&u=acebd804e5b3801c291e602f00482698a98955ca&v=4"
           width="96"
         />
         <h5 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">
@@ -60,7 +60,7 @@ export default function UserProfileCard({ user }) {
         <div className="mt-4 flex space-x-3 lg:mt-6">
           <a
             className="inline-flex items-center rounded-lg bg-cyan-700 px-4 py-2 text-center text-sm font-medium text-white hover:bg-cyan-800 focus:outline-none focus:ring-4 focus:ring-cyan-300 dark:bg-cyan-600 dark:hover:bg-cyan-700 dark:focus:ring-cyan-800"
-            href="#"
+            href="https://www.facebook.com/markvincentomega"
           >
             <p>
               Facebook
@@ -68,7 +68,7 @@ export default function UserProfileCard({ user }) {
           </a>
           <a
             className="inline-flex items-center rounded-lg border border-gray-300 bg-white px-4 py-2 text-center text-sm font-medium text-gray-900 hover:bg-gray-100 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:border-gray-600 dark:bg-gray-800 dark:text-white dark:hover:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-700"
-            href="#"
+            href="https://www.instagram.com/takecaremyfren"
           >
             <p>
               Instagram
